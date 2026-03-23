@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "The Hardest",
+  "base_artist": "milet",
+  "createdAt": "2026-03-23T19:22:30.912807Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Hardest Thing",
+      "artist": "American Aquarium",
+      "has_synced": false,
+      "path": "select/01_The_Hardest_Thing_American_Aquarium.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Hardest Part",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/02_The_Hardest_Part_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Hardest Part",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/03_The_Hardest_Part_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Keep Your Shit The Hardest",
+      "artist": "DMX",
+      "has_synced": true,
+      "path": "select/04_Keep_Your_Shit_The_Hardest_DMX.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Hardest Part Is The Night",
+      "artist": "Bon Jovi",
+      "has_synced": false,
+      "path": "select/05_The_Hardest_Part_Is_The_Night_Bon_Jovi.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Hardest Part Is The Night",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/06_The_Hardest_Part_Is_The_Night_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sorry Seems To Be The Hardest Word",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/07_Sorry_Seems_To_Be_The_Hardest_Word_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love the Hardest Way (Tiësto Remix)",
+      "artist": "HIM",
+      "has_synced": true,
+      "path": "select/08_Love_the_Hardest_Way_(Tiësto_Remix)_HIM.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love, The Hardest Way",
+      "artist": "HIM",
+      "has_synced": true,
+      "path": "select/09_Love,_The_Hardest_Way_HIM.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love, The Hardest Way (Live at Helldone)",
+      "artist": "HIM",
+      "has_synced": true,
+      "path": "select/10_Love,_The_Hardest_Way_(Live_at_Helldone)_HIM.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Hardest Part of Letting Go... Sealed with a Kiss",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/11_The_Hardest_Part_of_Letting_Go..._Sealed_with_a_Kiss_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Hardest Walk",
+      "artist": "The Jesus and Mary Chain",
+      "has_synced": false,
+      "path": "select/12_The_Hardest_Walk_The_Jesus_and_Mary_Chain.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Hardest Walk (Some Kind of Wonderful OST)",
+      "artist": "The Jesus and Mary Chain",
+      "has_synced": true,
+      "path": "select/13_The_Hardest_Walk_(Some_Kind_of_Wonderful_OST)_The_Jesus_and_Mary_Chain.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Hardest Part",
+      "artist": "Erasure",
+      "has_synced": true,
+      "path": "select/14_The_Hardest_Part_Erasure.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Hardest",
+      "artist": "milet",
+      "has_synced": false,
+      "path": "select/pl_01_The_Hardest_milet.txt"
+    }
+  ]
+}
