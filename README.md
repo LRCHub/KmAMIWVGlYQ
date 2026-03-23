@@ -1,0 +1,50 @@
+# milet – The Hardest
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I’ve been flying
+But I’ve been falling
+抜け出したくないよ
+If you’re gonna leave me,
+my love has no meaning
+まだそばにいたいよ
+‘Cause you gave me life,
+you gave me life
+一人きりじゃ思い出してしまうから
+And you showed me love,
+you showed me love
+離れられない 思い出のにおいも
+簡単に言わないで
+I’m still here
+ここで今すぐ抱きしめて
+いつまでも私だけ
+夜のなか置いていかないで
+You know I’m waiting
+for you to come back
+返事を聞いてよ
+You can’t imagine
+how much I’m missing you now
+影が消えるよ
+簡単に言わないで
+I’m still here
+ここで今すぐ抱きしめて
+So don’t let me walk alone
+もう私だけ
+夜のなか置いていかないで
+I only want you
+to stay beside me
+遠ざかった朝を待ってる
+ねぇ教えてよ What am I to you?
+How many times should I cry?
+I’m begging you
+まだ思い出していたい
+My love is for you
+簡単に言わないで
+I’m still here
+ここで今すぐ抱きしめて
+いつまでも私だけ
+夜のなか置いていかないで
+気づいてよ私だけ
+一人のまま置いてかないで
+```
